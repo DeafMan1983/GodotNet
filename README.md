@@ -16,6 +16,8 @@ Because Dotnet has a lot of new features with `dotnet workload`. It means you ca
 # If we would like to create GodotNet into web based application via Webassembly ( WASM )?
 I am sure that. Because Microsoft releases with built-in Emscription in SDK like [dotnet6-webgl-sample](https://github.com/AshleighAdams/dotnet6-webgl-sample) That is nice example with WaveEngine but for me I make custom like WaveEngine's OpenGLES
 
+UPDATED: I would like to add SDL2 and GLFM(for Android, iOS and Webassembly)GLFW3 for GodotNet because Windowing System made easy :D
+
 # Now do you would like to help in our development with GodotNet?
 Than I will release in private repository soon...
 
