@@ -1,6 +1,10 @@
 # GodotNet
 ![](https://github.com/DeafMan1983/GodotNet/blob/main/icon.png?raw=true)
 
+#Update information!!!
+
+I will work and replace into Native Aot with Dotnet 7.0 / 8.0 
+
 # Why is GodotNet?
 Dotnet + Godot = (Go)Dotnet -> Replaces with "GodotNet".
 
