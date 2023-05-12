@@ -8,7 +8,7 @@ I will work and replace into Native Aot with Dotnet 7.0 / 8.0
 # Why is GodotNet?
 Dotnet + Godot = (Go)Dotnet -> Replaces with "GodotNet".
 
-# Oh, is it good that Godot replaces into Dotnet Framework (Net 6.0x )?
+# Oh, is it good that Godot replaces into Dotnet Framework (Net 7.0x )?
 Because Mono-Runtime is already died on Ubuntu 22.04 since I got many critical problem with repository of Mono-Project and it said Error with i586 packages or ignored warnings and I have tested - Oh it is really sad because Godot for Mono worked crashed end since I ran `bin/godot.x11.tools.64.mono`
 
 # Oh well bye bye Mono-Project!
